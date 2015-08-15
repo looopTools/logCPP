@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "log.hpp"
-namespace log
+#include "logcpp.hpp"
+namespace logcpp
 {
     void log_error(std::string msg)
     {

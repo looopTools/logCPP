@@ -1,6 +1,6 @@
 #include <string>
 
-namespace log
+namespace logcpp
 {
     // Used for logging of error's
     void log_error(std::string msg);
